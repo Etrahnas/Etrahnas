@@ -1,10 +1,6 @@
-### Hello random person on the internet,
+### Hello and welcome,
 
-After some serious and not so serious events, I decided to become a programmer at the age of 41. Will it be a success or a failure? I hope the former...
-
-So far I learned Python, SQL and some html and CSS. 
-
-Currently working on Data Structures and Algorythms. Planning to learn C++, C and JavaScript in the future (haven't decided the order yet).
+Great to have you here. Feel free to check the stuff I do.
 
 Feel free to drop a line or two here: etrahnas@gmail.com
 
